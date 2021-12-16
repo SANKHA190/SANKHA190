@@ -1,0 +1,5 @@
+- 👋 Hi, I’m SANKHA DAS
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on python project
+- 📫 Reach me at sankhadas82@gmail.com
